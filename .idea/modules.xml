@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Connect Four C++.iml" filepath="$PROJECT_DIR$/.idea/Connect Four C++.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Connect Four Java.iml" filepath="$PROJECT_DIR$/Connect Four Java.iml" />
+>>>>>>> 920043eb418fbe4431da664b7e8be8f4c9028de0
     </modules>
   </component>
 </project>
